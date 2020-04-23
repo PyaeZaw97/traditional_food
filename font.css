@@ -1,0 +1,20 @@
+@font-face{
+	font-family:"messsiri"; 
+	src:url("fonts/El_Messiri/ElMessiri-SemiBold.ttf");
+}
+@font-face{
+	font-family:"messsiri1"; 
+	src:url("fonts/EI_Messiri/EIMessiri-Bold.ttf");
+}
+@font-face{
+	font-family:"lobster"; 
+	src:url("fonts/Lobster/Lobster-Regular.ttf");
+}
+@font-face{
+	font-family:"lobster1"; 
+	src:url("fonts/Lobster_Two/LobsterTwo-BoldItalic.ttf");
+}
+@font-face{
+	font-family:"padauk"; 
+	src:url("fonts/Padauk/Padauk-Bold.ttf");
+}
