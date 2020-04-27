@@ -29,7 +29,7 @@ h1{
 }
 
 
-}
+
 .navbar-brand{
 	font-family: "lobster1"; 
 	
@@ -40,7 +40,7 @@ h1{
 /*Nav Bar*/
 #mainNav {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-  background-color: #87877c;
+  background-color:#1faeff;
   transition: background-color 0.2s ease;
   font-family: "messsiri";
 }
@@ -92,7 +92,7 @@ background: #707070;
 #image-hover:hover{
 	border-color: rgba(223, 31, 31, 1);
 	color: rgba(0,51,153,1);
-	background-color: #CCFF00;
+	background-color: #FF5E18;
 
 }
 
